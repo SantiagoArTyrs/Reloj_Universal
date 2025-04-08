@@ -33,7 +33,7 @@ math (para dibujar el reloj con trigonometría)
 
 🎮 Cómo usarlo
 1. Corre la app
-python clock.py
+reloj_mundial.py
 🔧 Funcionalidades Extra
 Función	Descripción
 Cambiar país	Selector con combobox o flechas < >
